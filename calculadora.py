@@ -1,3 +1,4 @@
+"""Calculadora - projeto da disciplina CMP2304/A03 (PUC Goiás)."""
 
 
 def soma(a, b):
